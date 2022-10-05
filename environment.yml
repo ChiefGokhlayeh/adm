@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - dask
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - pre-commit
+  - python=3.10
