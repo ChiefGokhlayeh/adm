@@ -9,3 +9,4 @@ dependencies:
   - pandas
   - pre-commit
   - python=3.10
+  - seaborn
