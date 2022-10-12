@@ -5,6 +5,7 @@ dependencies:
   - dask
   - ipykernel
   - matplotlib
+  - nbstripout
   - numpy
   - pandas
   - pre-commit
