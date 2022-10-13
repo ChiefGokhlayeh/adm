@@ -9,5 +9,6 @@ dependencies:
   - numpy
   - pandas
   - pre-commit
+  - python-graphviz
   - python=3.10
   - seaborn
