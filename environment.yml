@@ -12,4 +12,5 @@ dependencies:
   - python-graphviz
   - python=3.10
   - pytorch
+  - scikit-learn
   - seaborn
