@@ -11,4 +11,5 @@ dependencies:
   - pre-commit
   - python-graphviz
   - python=3.10
+  - pytorch
   - seaborn
