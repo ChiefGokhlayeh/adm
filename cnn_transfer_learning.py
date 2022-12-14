@@ -16,8 +16,8 @@ import copy
 
 # EDIT CONSTANTS HERE
 
-DATA_DIR = "/tmp/hymenoptera_data"
-MODEL_PATH = "/tmp/hymenoptera_data/model.pt"
+DATA_DIR = "/tmp/tmpf2qlue9i/hymenoptera_data"
+MODEL_PATH = "/tmp/tmpf2qlue9i/hymenoptera_data/model.pt"
 NUM_EPOCHS = 5
 
 ######################################################
