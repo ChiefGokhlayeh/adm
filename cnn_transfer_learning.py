@@ -133,7 +133,6 @@ def train_model(model, criterion, optimizer, scheduler, num_epochs=25):
 
 
 if __name__ == "__main__":
-
     # freeze_support()
 
     model_ft = models.resnet18(pretrained=True)
